@@ -137,7 +137,14 @@ form label span {
   font-size: 0.8em;
   color: #bbb;
 }
+
 /* careers details */
+.career-details {
+  background-color: rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  border-radius: 4px;
+  margin: 20px 0;
+}
 
 
 /* breadcrumbs */
